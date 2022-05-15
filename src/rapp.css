@@ -1,0 +1,9 @@
+.main_div{
+  display:border-box;
+}
+.center_div{
+  justify-content: center;
+  align-items: center;
+
+}
+
