@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import SiteApp from './SiteApp';
 //import './Calculator/CalcyStyle.css';
 import './index.css';
-import Outer from './Outer'
+
 import Rapp from './Rapp';
 ReactDOM.render(
 <>
